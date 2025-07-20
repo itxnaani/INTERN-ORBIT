@@ -84,5 +84,5 @@ sms-spam-detection/
 Source: Kaggle - SMS Spam Collection Dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Author
-Jasmin Shaik
+Venkatesh Barla
 INTERN ORBIT Internship - Level 2 Task
