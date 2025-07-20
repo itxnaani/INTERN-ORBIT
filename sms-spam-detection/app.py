@@ -55,6 +55,6 @@ if st.session_state.prediction:
 # Footer
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: grey;'>Built by <strong>Jasmin Shaik</strong></div>",
+    "<div style='text-align: center; color: grey;'>Built by <strong>Venkatesh Barla</strong></div>",
     unsafe_allow_html=True
 )
