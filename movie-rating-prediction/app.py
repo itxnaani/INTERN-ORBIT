@@ -33,4 +33,4 @@ if st.button("Predict Rating"):
         st.warning("⚠️ Please fill in all the fields to get a prediction.")
 
 st.markdown("---")
-st.markdown("Built by Jasmin Shaik")
+st.markdown("Built by Venkatesh Barla")
