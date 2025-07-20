@@ -79,5 +79,5 @@ gtd_analysis/
 Source: Global Terrorism Database (GTD) - Kaggle(https://www.kaggle.com/datasets/START-UMD/gtd?resource=download)
 
 ## Author
-Jasmin Shaik
+Venkatesh Barla
 INTERN ORBIT Internship - Level 3 Task
